@@ -138,15 +138,6 @@ Full-stack application for managing personal income, expenses, budgets and spend
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasky Nawfar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
-</p>
-
-
----
 
 # 🎯 Career Goal
 
@@ -169,7 +160,7 @@ I'm eager to work on real-world projects, learn from experienced developers, and
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/Jasky Nawfar/">
+<a href="https://www.linkedin.com/in/jaskynawfar/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
