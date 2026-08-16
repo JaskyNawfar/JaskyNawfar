@@ -178,9 +178,5 @@ I'm eager to work on real-world projects, learn from experienced developers, and
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
 <b>✨ Build • Learn • Improve • Repeat ✨</b>
 </p>
