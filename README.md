@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nawfar Jasky
 
-### 💻 Computer Science Undergraduate | Java Full-Stack Developer
+### 💻 Computer Science Undergraduate |  Full-Stack Developer
 
 I'm a Computer Science undergraduate at **Eastern University of Sri Lanka** passionate about building practical software solutions and full-stack applications.
 
